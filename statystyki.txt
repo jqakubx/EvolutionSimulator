@@ -1,0 +1,7 @@
+Statystki wykonane dla 8 pierwszych epok dla symulacji 2
+Średnia liczba zwierząt: 58.0
+Średnia liczba roślin: 25.0
+Średnia energia zwierząt: 11.05
+Średnia długość życia martwych zwierząt: 7.29
+Średnia ilość dzieci dla żyjących zwierząt: 0.53
+Najczęstszy genotyp: 00000111233444455555666677777777

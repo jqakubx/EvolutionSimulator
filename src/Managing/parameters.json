@@ -1,0 +1,11 @@
+{
+	"width": 24,
+	"height": 24,
+	"widthJungle": 10,
+	"heightJungle": 10,
+	"animals": 55,
+	"startEnergy": 15,
+	"moveEnergy": 1,
+	"plantEnergy": 24,
+	"grass": 25
+}
